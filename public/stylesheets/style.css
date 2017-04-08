@@ -1,0 +1,26 @@
+html, body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+.title{
+    text-align: center;
+    margin-top: 1em;
+    letter-spacing: 1px;
+}
+
+.line-break{
+    width: 40px;
+    border-color: #00002f ;
+    background: #00002f;
+    height: 1px;
+}
+
+#main-section h4{
+    text-align: center;
+}
+
+#main-section p{
+    
+}
