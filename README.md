@@ -1,4 +1,4 @@
-# Welcome to another CreativeBitStudio tutorial.
+# Welcome to another CreativeBitStudio Quick Start Application.
 # This is an express-node app with Pug (template engine).
 
 This app contains all the necessary modules to develop a simple express app to play around, test and put into production with.   
@@ -26,7 +26,6 @@ Technologies used
 * For the most part, each file has some comments explaining what each piece of code does. 
 
 Developed for CreativeBitStudio by Danny Mack - Full Stack Developer
-
 Developer Feedback: creativebitstudio@gmail.com
 To contact or hire us: info@creativebitstudio.com 
 Website: www.creativebitstudio.com
