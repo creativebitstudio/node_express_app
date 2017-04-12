@@ -25,7 +25,7 @@ Technologies used
 * Nodemon is saved under development dependencies and is used to restart the server automatically anytime a change is made to the   application. To start the server, simply type the command: nodemon app. 
 * For the most part, each file has some comments explaining what each piece of code does. 
 
-Developed for CreativeBitStudio by Danny Mack - Full Stack Developer
-Developer Feedback: creativebitstudio@gmail.com
-To contact or hire us: info@creativebitstudio.com 
-Website: www.creativebitstudio.com
+- Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
+- Developer Feedback: creativebitstudio@gmail.com.
+- To contact or hire us: info@creativebitstudio.com. 
+- Website: www.creativebitstudio.com
